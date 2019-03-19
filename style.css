@@ -1,0 +1,69 @@
+/*body{background: linear-gradient(to right , #FD0303 , #FFFF00); margin: 0px; padding: 0px;}
+.done {
+
+	text-decoration: underline;
+	font-size:2em;
+}
+.done2:hover{
+background-color: black;
+color:white;
+text-decoration: none;
+}
+*/
+*{margin: 0px; padding: 0px;}
+
+
+body {
+	background-color: #E7DFDF;
+}
+h1
+{
+	text-align: center;;
+	margin:20px;
+}
+.container{
+
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 70px;
+}
+.list{
+	width : 30%;
+    float: left;
+ 
+   
+	
+
+}
+.post{
+	
+	width: 69%;
+	float: right;
+	 
+	}
+textarea {
+	size: 100;
+	padding-left: 300px;
+	padding-top: 50px;
+	
+}
+button{
+	background-color: #C9E0BD;
+	padding: 5px;
+}
+button:hover{
+	background-color: #C4D3CC;
+
+
+}
+.box{width: 100%;
+	
+}
+
+/*------------------------------------------------Background Generator--------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------*/
+
+.section{
+	text-align: center;
+	
+}
